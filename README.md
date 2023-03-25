@@ -5,3 +5,4 @@ steps followed:
 3. Data Cleaning using Power Query Editor with DAX (Data Analysis Expressions).
    and ultimately
 4. Developing an Interactive BI Dashboard / Report.
+![Screenshot (519)](https://user-images.githubusercontent.com/94975766/227736689-7910f2df-7093-4517-b088-e12152f7f148.png)
